@@ -1,0 +1,1087 @@
+1525352956494	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1525352956500	geckodriver	INFO	Listening on 127.0.0.1:53203
+1525352959548	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile.syjLO22PzHua"
+1525352959869	addons.xpi	WARN	Exception running bootstrap method startup on clicktoplay-rollout@mozilla.org: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getStringPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js :: defineCohort :: line 49"  data: no] Stack trace: defineCohort()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:49 < startup()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:40 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4391 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2229 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1525352960155	Marionette	INFO	Enabled via --marionette
+1525352961486	Marionette	INFO	Listening on port 53211
+1525352961504	Marionette	INFO	Listening on port 53211
+1525352961568	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1525416670241	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1525416670318	geckodriver	INFO	Listening on 127.0.0.1:57373
+1525416673214	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile.MoLE2gzf9nFl"
+1525416674787	addons.xpi	WARN	Exception running bootstrap method startup on clicktoplay-rollout@mozilla.org: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getStringPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js :: defineCohort :: line 49"  data: no] Stack trace: defineCohort()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:49 < startup()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:40 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4391 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2229 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1525416675667	Marionette	INFO	Enabled via --marionette
+[Child 11152] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11152] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525416679801	Marionette	INFO	Listening on port 57381
+1525416679818	Marionette	INFO	Listening on port 57381
+1525416680582	Marionette	WARN	TLS certificate errors will be ignored for this session
+1525416680664	Marionette	DEBUG	Register listener.js for window 4294967297
+1525416680747	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1525416680771	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1525416680771	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1525416681478	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.1.1:8090/httpclient.html"
+1525416681891	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.1.1:8090/httpclient.html"
+[Parent 7632] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7904] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7904] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 7436] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+gPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js :: defineCohort :: line 49"  data: no] Stack trace: defineCohort()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:49 < startup()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:40 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4391 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2229 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1525416715680	Marionette	INFO	Enabled via --marionette
+[Child 7264] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7264] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525416717355	Marionette	INFO	Listening on port 57435
+1525416717379	Marionette	INFO	Listening on port 57435
+1525416718015	Marionette	WARN	TLS certificate errors will be ignored for this session
+1525416718076	Marionette	DEBUG	Register listener.js for window 4294967297
+1525416718123	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1525416718134	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1525416718135	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1525416718554	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.1.1:8090/httpclient.html"
+1525416718564	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.1.1:8090/httpclient.html"
+[Parent 11016] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4572] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x140084,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x140078,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x140001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+[Child 4572] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: chrome://browser/content/tab-content.js, line 329: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x140001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://browser/content/content.js, line 812: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x140001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://global/content/browser-child.js, line 125: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x14002B,name=PBrowser::Msg_SetInputContext) Closed channel: cannot send/recv
+
+ents/addonManager.js:65
+1525416732045	Marionette	INFO	Enabled via --marionette
+[Child 8672] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8672] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525416733583	Marionette	INFO	Listening on port 57478
+1525416733588	Marionette	INFO	Listening on port 57478
+1525416734299	Marionette	WARN	TLS certificate errors will be ignored for this session
+1525416734373	Marionette	DEBUG	Register listener.js for window 4294967297
+1525416734436	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1525416734444	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1525416734445	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1525416734892	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.1.1:8090/httpclient.html"
+1525416735102	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.1.1:8090/httpclient.html"
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x140084,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x140078,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+[Child 7740] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7740] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x140001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://browser/content/tab-content.js, line 329: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x140001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://browser/content/content.js, line 812: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x140001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://global/content/browser-child.js, line 125: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x14002B,name=PBrowser::Msg_SetInputContext) Closed channel: cannot send/recv
+
+1525417475958	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1525417476003	geckodriver	INFO	Listening on 127.0.0.1:57873
+1525417478913	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile.SgeTuchkfasr"
+1525417480943	addons.xpi	WARN	Exception running bootstrap method startup on clicktoplay-rollout@mozilla.org: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getStringPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js :: defineCohort :: line 49"  data: no] Stack trace: defineCohort()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:49 < startup()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:40 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4391 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2229 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1525417481710	Marionette	INFO	Enabled via --marionette
+[Child 4592] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4592] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525417485553	Marionette	INFO	Listening on port 57881
+1525417485564	Marionette	INFO	Listening on port 57881
+1525417486281	Marionette	WARN	TLS certificate errors will be ignored for this session
+1525417486327	Marionette	DEBUG	Register listener.js for window 4294967297
+1525417486408	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1525417486455	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1525417486455	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1525417487129	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.1.1:8090/httpclient.html"
+1525417487132	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.1.1:8090/httpclient.html"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525422984711	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1525422984716	geckodriver	INFO	Listening on 127.0.0.1:61006
+1525422987770	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile.dRbMbDma32wb"
+1525422989039	addons.xpi	WARN	Exception running bootstrap method startup on clicktoplay-rollout@mozilla.org: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getStringPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js :: defineCohort :: line 49"  data: no] Stack trace: defineCohort()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:49 < startup()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:40 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4391 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2229 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1525422989498	Marionette	INFO	Enabled via --marionette
+[Child 2648] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2648] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525422991435	Marionette	INFO	Listening on port 61020
+1525422991441	Marionette	INFO	Listening on port 61020
+1525422991902	Marionette	WARN	TLS certificate errors will be ignored for this session
+1525422991970	Marionette	DEBUG	Register listener.js for window 4294967297
+1525422992030	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1525422992781	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1525422992782	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1525422993249	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.earnstations.com/"
+1525422993255	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.earnstations.com/"
+JavaScript error: https://www.earnstations.com/, line 885: TypeError: $(...)[_0x71d1[17]] is not a function
+[Child 9376] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9376] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 7200] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525423168640	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1525423168645	geckodriver	INFO	Listening on 127.0.0.1:61374
+1525423171708	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile.d9WPW9K4Smx7"
+1525423172051	addons.xpi	WARN	Exception running bootstrap method startup on clicktoplay-rollout@mozilla.org: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getStringPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js :: defineCohort :: line 49"  data: no] Stack trace: defineCohort()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:49 < startup()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:40 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4391 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2229 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1525423172402	Marionette	INFO	Enabled via --marionette
+[Child 10732] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10732] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525423173824	Marionette	INFO	Listening on port 61386
+1525423173836	Marionette	INFO	Listening on port 61386
+1525423174839	Marionette	WARN	TLS certificate errors will be ignored for this session
+1525423174886	Marionette	DEBUG	Register listener.js for window 4294967297
+1525423174941	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1525423175668	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1525423175669	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1525423175934	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.earnstations.com/"
+1525423175941	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.earnstations.com/"
+JavaScript error: https://www.earnstations.com/, line 885: TypeError: $(...)[_0x71d1[17]] is not a function
+[Child 11040] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+and: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile.NSrRyiQMpFOT"
+1525423234671	addons.xpi	WARN	Exception running bootstrap method startup on clicktoplay-rollout@mozilla.org: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getStringPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js :: defineCohort :: line 49"  data: no] Stack trace: defineCohort()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:49 < startup()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:40 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4391 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2229 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1525423234953	Marionette	INFO	Enabled via --marionette
+1525423236297	Marionette	INFO	Listening on port 61520
+1525423236308	Marionette	INFO	Listening on port 61520
+1525423236356	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.earnstations.com/, line 885: TypeError: $(...)[_0x71d1[17]] is not a function
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1525425056220	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1525425056225	geckodriver	INFO	Listening on 127.0.0.1:63847
+1525425059258	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile.1GFdtwigdctn"
+1525425059622	addons.xpi	WARN	Exception running bootstrap method startup on clicktoplay-rollout@mozilla.org: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getStringPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js :: defineCohort :: line 49"  data: no] Stack trace: defineCohort()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:49 < startup()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:40 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4391 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2229 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1525425060121	Marionette	INFO	Enabled via --marionette
+[Parent 5340] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6280] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6280] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525425063158	Marionette	INFO	Listening on port 63855
+1525425063168	Marionette	INFO	Listening on port 63855
+1525425063384	Marionette	WARN	TLS certificate errors will be ignored for this session
+1525425063442	Marionette	DEBUG	Register listener.js for window 4294967297
+1525425063486	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1525425064062	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1525425064062	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1525425066441	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.makemytrip.com/"
+1525425071052	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.makemytrip.com/"
+1525425071453	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1525425071471	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1525425075870	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1525425091012	Marionette	INFO	New connections will no longer be accepted
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 9916] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9916] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525437909672	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1525437909677	geckodriver	INFO	Listening on 127.0.0.1:51353
+1525437912706	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile.G37Tem8qkzG2"
+1525437913500	addons.xpi	WARN	Exception running bootstrap method startup on clicktoplay-rollout@mozilla.org: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getStringPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js :: defineCohort :: line 49"  data: no] Stack trace: defineCohort()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:49 < startup()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:40 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4391 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2229 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1525437913826	Marionette	INFO	Enabled via --marionette
+[Child 12180] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12180] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525437915016	Marionette	INFO	Listening on port 51361
+1525437915018	Marionette	INFO	Listening on port 51361
+1525437915833	Marionette	WARN	TLS certificate errors will be ignored for this session
+1525437915867	Marionette	DEBUG	Register listener.js for window 4294967297
+1525437915917	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1525437917763	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1525437917763	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1525437918532	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1525437919947	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1525437920184	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1525437921242	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1525437921245	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1525437921530	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1525437923213	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+[Parent 6628] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525437925644	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1525437926139	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1525437931441	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1525437932114	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 988] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525502048118	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1525502048176	geckodriver	INFO	Listening on 127.0.0.1:57299
+1525502051231	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile.M3xVxjF8cyo3"
+1525502053467	addons.xpi	WARN	Exception running bootstrap method startup on clicktoplay-rollout@mozilla.org: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getStringPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js :: defineCohort :: line 49"  data: no] Stack trace: defineCohort()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:49 < startup()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:40 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4391 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2229 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1525502054278	Marionette	INFO	Enabled via --marionette
+[Child 6588] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6588] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525502058339	Marionette	INFO	Listening on port 57313
+1525502058354	Marionette	INFO	Listening on port 57313
+1525502058617	Marionette	WARN	TLS certificate errors will be ignored for this session
+1525502058685	Marionette	DEBUG	Register listener.js for window 4294967297
+1525502058815	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1525502060734	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1525502060734	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1525502061612	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+[Parent 11832] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525502064439	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1525502064722	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1525502065943	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1525502065957	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1525502066398	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1525502067786	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1525502069435	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1525502070206	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1525502071271	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1525502071918	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
+1525502072493	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1525502077983	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1525502078651	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 11832] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendA1525502138696	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile.u9EiYxB1W749"
+1525502139034	addons.xpi	WARN	Exception running bootstrap method startup on clicktoplay-rollout@mozilla.org: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getStringPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js :: defineCohort :: line 49"  data: no] Stack trace: defineCohort()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:49 < startup()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:40 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4391 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2229 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1525502139259	Marionette	INFO	Enabled via --marionette
+[Parent 11156] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 548] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 548] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525502140439	Marionette	INFO	Listening on port 57533
+1525502140447	Marionette	INFO	Listening on port 57533
+1525502140730	Marionette	WARN	TLS certificate errors will be ignored for this session
+1525502140766	Marionette	DEBUG	Register listener.js for window 4294967297
+1525502140821	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1525502142855	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1525502142856	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1525502143581	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1525502146648	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1525502146924	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1525502148325	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1525502148338	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1525502148750	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1525502149605	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1525502150939	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+[Parent 11156] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525502152125	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967315"
+1525502152834	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1525502152939	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1525502158323	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1525502158930	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Data\\Local\\Temp\\rust_mozprofile.427wS0EuvmVW"
+1525502239729	addons.xpi	WARN	Exception running bootstrap method startup on clicktoplay-rollout@mozilla.org: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getStringPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js :: defineCohort :: line 49"  data: no] Stack trace: defineCohort()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:49 < startup()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:40 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4391 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2229 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1525502239994	Marionette	INFO	Enabled via --marionette
+[Child 392] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 392] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525502241495	Marionette	INFO	Listening on port 57750
+1525502241497	Marionette	INFO	Listening on port 57750
+1525502242499	Marionette	WARN	TLS certificate errors will be ignored for this session
+1525502242541	Marionette	DEBUG	Register listener.js for window 4294967297
+1525502242616	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1525502244446	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1525502244446	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1525502245112	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1525502247912	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1525502248215	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1525502249296	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1525502249309	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1525502249759	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1525502250484	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1525502251848	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1525502252451	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1525502253817	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1525502253999	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
+1525502254424	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1525502259767	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1525502260415	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 2616] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 3708] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+emp\\rust_mozprofile.mAUir6gRcZLx"
+1525502361790	addons.xpi	WARN	Exception running bootstrap method startup on clicktoplay-rollout@mozilla.org: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getStringPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js :: defineCohort :: line 49"  data: no] Stack trace: defineCohort()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:49 < startup()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:40 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4391 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2229 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1525502362150	Marionette	INFO	Enabled via --marionette
+[Child 8032] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8032] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525502363305	Marionette	INFO	Listening on port 58026
+1525502363318	Marionette	INFO	Listening on port 58026
+1525502363461	Marionette	WARN	TLS certificate errors will be ignored for this session
+1525502363498	Marionette	DEBUG	Register listener.js for window 4294967297
+1525502363545	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1525502365729	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1525502365729	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1525502366409	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1525502369287	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1525502369529	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1525502370996	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1525502371009	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1525502371419	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1525502372211	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1525502373615	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1525502374228	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1525502375502	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
+1525502375529	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1525502375970	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1525502381378	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1525502382043	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967320"
+1525502382043	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 11032] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525502493797	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1525502493803	geckodriver	INFO	Listening on 127.0.0.1:58302
+1525502496859	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile.qTB02HqueaKO"
+1525502497240	addons.xpi	WARN	Exception running bootstrap method startup on clicktoplay-rollout@mozilla.org: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getStringPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js :: defineCohort :: line 49"  data: no] Stack trace: defineCohort()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:49 < startup()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:40 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4391 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2229 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1525502497625	Marionette	INFO	Enabled via --marionette
+[Child 8552] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8552] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525502498794	Marionette	INFO	Listening on port 58314
+1525502498809	Marionette	INFO	Listening on port 58314
+1525502498871	Marionette	WARN	TLS certificate errors will be ignored for this session
+1525502498908	Marionette	DEBUG	Register listener.js for window 4294967297
+1525502498958	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1525502501113	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1525502501114	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1525502501774	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1525502503225	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1525502503457	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1525502504607	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1525502504619	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1525502505031	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1525502505962	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1525502507171	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+[Parent 7588] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525502507977	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967315"
+1525502508817	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1525502510341	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
+1525502510567	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1525502515972	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1525502516547	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967320"
+1525502516612	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 8888] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525502657259	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1525502657264	geckodriver	INFO	Listening on 127.0.0.1:58618
+1525502660313	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile.4vmFTu5XhkY3"
+1525502660678	addons.xpi	WARN	Exception running bootstrap method startup on clicktoplay-rollout@mozilla.org: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getStringPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js :: defineCohort :: line 49"  data: no] Stack trace: defineCohort()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:49 < startup()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:40 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4391 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2229 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1525502660968	Marionette	INFO	Enabled via --marionette
+[Parent 6244] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8040] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8040] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525502662081	Marionette	INFO	Listening on port 58630
+1525502662093	Marionette	INFO	Listening on port 58630
+1525502662329	Marionette	WARN	TLS certificate errors will be ignored for this session
+1525502662364	Marionette	DEBUG	Register listener.js for window 4294967297
+1525502662416	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1525502664431	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1525502664431	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1525502665141	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1525502667197	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1525502667448	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1525502668627	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1525502668639	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1525502669055	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1525502670115	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1525502671565	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+[Parent 6244] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525502672221	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+1525502673254	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1525502673783	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967319"
+1525502673987	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1525502679377	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1525502680010	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 6244] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9680] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9680] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 8736] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525502783448	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1525502783454	geckodriver	INFO	Listening on 127.0.0.1:58881
+1525502786516	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile.vdz48KogkH19"
+1525502786858	addons.xpi	WARN	Exception running bootstrap method startup on clicktoplay-rollout@mozilla.org: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getStringPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js :: defineCohort :: line 49"  data: no] Stack trace: defineCohort()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:49 < startup()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:40 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4391 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2229 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1525502787181	Marionette	INFO	Enabled via --marionette
+[Parent 7960] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9812] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9812] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525502788432	Marionette	INFO	Listening on port 58893
+1525502788433	Marionette	INFO	Listening on port 58893
+1525502788530	Marionette	WARN	TLS certificate errors will be ignored for this session
+1525502788567	Marionette	DEBUG	Register listener.js for window 4294967297
+1525502788620	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1525502790458	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1525502790459	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1525502791124	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1525502793266	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1525502793517	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1525502794911	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1525502794923	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1525502795335	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1525502796161	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1525502797751	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1525502798413	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+1525502799539	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967319"
+1525502800000	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1525502801108	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967322"
+1525502801298	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1525502806715	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1525502807231	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967324"
+1525502807303	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1525502841044	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 7960] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12284] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 11044] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525503555209	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1525503555215	geckodriver	INFO	Listening on 127.0.0.1:60076
+1525503558321	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile.CLTv14Y7gYFd"
+1525503558889	addons.xpi	WARN	Exception running bootstrap method startup on clicktoplay-rollout@mozilla.org: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getStringPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js :: defineCohort :: line 49"  data: no] Stack trace: defineCohort()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:49 < startup()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:40 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4391 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2229 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1525503559202	Marionette	INFO	Enabled via --marionette
+[Child 9492] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9492] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525503560673	Marionette	INFO	Listening on port 60090
+1525503560676	Marionette	INFO	Listening on port 60090
+1525503561496	Marionette	WARN	TLS certificate errors will be ignored for this session
+1525503561549	Marionette	DEBUG	Register listener.js for window 4294967297
+1525503561598	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1525503563505	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1525503563505	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1525503564209	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1525503565645	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1525503565885	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1525503567444	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1525503567450	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1525503567794	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1525503569107	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1525503570768	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1525503572580	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1525503572644	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+1525503573949	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967320"
+1525503574452	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1525503579839	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1525503580428	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 8092] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8092] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 7384] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525503601349	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1525503601354	geckodriver	INFO	Listening on 127.0.0.1:60221
+1525503604424	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile.EZvL0dDJp2FY"
+1525503604777	addons.xpi	WARN	Exception running bootstrap method startup on clicktoplay-rollout@mozilla.org: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getStringPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js :: defineCohort :: line 49"  data: no] Stack trace: defineCohort()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:49 < startup()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:40 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4391 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2229 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1525503605083	Marionette	INFO	Enabled via --marionette
+1525503606225	Marionette	INFO	Listening on port 60233
+1525503606238	Marionette	INFO	Listening on port 60233
+1525503606443	Marionette	WARN	TLS certificate errors will be ignored for this session
+1525503606506	Marionette	DEBUG	Register listener.js for window 4294967297
+1525503606562	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1525503608671	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1525503608671	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1525503609349	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1525503610784	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1525503611097	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1525503612591	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1525503612603	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1525503613026	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1525503613944	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1525503615758	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1525503616622	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+1525503617194	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1525503617288	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1525503622687	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1525503623350	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967320"
+1525503623396	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1525503643683	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 6216] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6216] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10080] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10080] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+a Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile.kdrotaqBYOp6"
+1525503670206	addons.xpi	WARN	Exception running bootstrap method startup on clicktoplay-rollout@mozilla.org: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getStringPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js :: defineCohort :: line 49"  data: no] Stack trace: defineCohort()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:49 < startup()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:40 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4391 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2229 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1525503670517	Marionette	INFO	Enabled via --marionette
+[Parent 6888] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12040] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12040] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525503671776	Marionette	INFO	Listening on port 60408
+1525503671790	Marionette	INFO	Listening on port 60408
+1525503671892	Marionette	WARN	TLS certificate errors will be ignored for this session
+1525503671927	Marionette	DEBUG	Register listener.js for window 4294967297
+1525503671981	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1525503674077	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1525503674078	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1525503674736	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1525503676413	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1525503676653	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1525503678059	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1525503678071	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1525503678365	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1525503679230	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1525503680627	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+[Parent 6888] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525503681929	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+1525503682419	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1525503683261	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967319"
+1525503683644	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1525503689033	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1525503689703	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 5312] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525503782535	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1525503782540	geckodriver	INFO	Listening on 127.0.0.1:60663
+1525503785603	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile.hHmPPQWFWoFn"
+1525503785935	addons.xpi	WARN	Exception running bootstrap method startup on clicktoplay-rollout@mozilla.org: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getStringPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js :: defineCohort :: line 49"  data: no] Stack trace: defineCohort()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:49 < startup()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:40 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4391 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2229 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1525503786269	Marionette	INFO	Enabled via --marionette
+[Child 11284] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11284] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525503787452	Marionette	INFO	Listening on port 60675
+1525503787465	Marionette	INFO	Listening on port 60675
+1525503787619	Marionette	WARN	TLS certificate errors will be ignored for this session
+1525503787653	Marionette	DEBUG	Register listener.js for window 4294967297
+1525503787709	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1525503791450	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1525503791450	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1525503792177	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1525503794431	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1525503794701	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1525503795723	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1525503795735	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1525503796029	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1525503797072	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1525503798718	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1525503799675	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
+1525503800216	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1525503800969	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967319"
+1525503802059	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967322"
+1525503802332	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1525503807703	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1525503808320	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967324"
+1525503808407	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 8356] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ clicktoplay-rollout@mozilla.org: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getStringPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js :: defineCohort :: line 49"  data: no] Stack trace: defineCohort()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:49 < startup()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:40 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4391 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2229 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1525503908502	Marionette	INFO	Enabled via --marionette
+[Child 9452] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9452] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525503909632	Marionette	INFO	Listening on port 60930
+1525503909687	Marionette	INFO	Listening on port 60930
+1525503909879	Marionette	WARN	TLS certificate errors will be ignored for this session
+1525503909917	Marionette	DEBUG	Register listener.js for window 4294967297
+1525503909964	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1525503911842	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1525503911843	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1525503912533	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1525503913976	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1525503914285	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1525503915519	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1525503915528	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1525503915954	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1525503917145	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1525503918439	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1525503919217	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967320"
+1525503920117	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1525503920522	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967323"
+1525503921045	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1525503926423	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1525503927045	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 5992] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5992] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 8248] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js :: defineCohort :: line 49"  data: no] Stack trace: defineCohort()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:49 < startup()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:40 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4391 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2229 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1525504240377	Marionette	INFO	Enabled via --marionette
+[Child 6604] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6604] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525504241613	Marionette	INFO	Listening on port 61547
+1525504241633	Marionette	INFO	Listening on port 61547
+1525504241682	Marionette	WARN	TLS certificate errors will be ignored for this session
+1525504241719	Marionette	DEBUG	Register listener.js for window 4294967297
+1525504241769	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1525504243774	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1525504243775	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1525504244518	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1525504246728	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1525504246977	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1525504248186	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1525504248199	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1525504248494	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1525504250226	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1525504251548	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1525504252762	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+1525504253442	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1525504253990	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967321"
+1525504254324	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1525504259712	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1525504260709	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967324"
+1525504260717	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1525504348272	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1525504348277	geckodriver	INFO	Listening on 127.0.0.1:61770
+1525504351344	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile.V6iCYOrB5KxX"
+1525504352232	addons.xpi	WARN	Exception running bootstrap method startup on clicktoplay-rollout@mozilla.org: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getStringPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js :: defineCohort :: line 49"  data: no] Stack trace: defineCohort()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:49 < startup()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:40 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4391 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2229 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1525504352573	Marionette	INFO	Enabled via --marionette
+[Child 2408] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2408] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525504353720	Marionette	INFO	Listening on port 61782
+1525504353734	Marionette	INFO	Listening on port 61782
+1525504354468	Marionette	WARN	TLS certificate errors will be ignored for this session
+1525504354521	Marionette	DEBUG	Register listener.js for window 4294967297
+1525504354601	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1525504356816	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1525504356816	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1525504357500	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+[Parent 9772] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525504360438	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1525504360731	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1525504362180	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1525504362187	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1525504362567	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1525504363581	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1525504364942	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1525504365589	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+1525504366923	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1525504366975	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967321"
+1525504367127	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1525504372469	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1525504373029	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967324"
+1525504373131	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 9772] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3724] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 1260] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ollout@mozilla.org: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getStringPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js :: defineCohort :: line 49"  data: no] Stack trace: defineCohort()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:49 < startup()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:40 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4391 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2229 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1525504646759	Marionette	INFO	Enabled via --marionette
+[Child 996] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 996] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525504647932	Marionette	INFO	Listening on port 62327
+1525504647943	Marionette	INFO	Listening on port 62327
+1525504648025	Marionette	WARN	TLS certificate errors will be ignored for this session
+1525504648060	Marionette	DEBUG	Register listener.js for window 4294967297
+1525504648115	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1525504650262	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1525504650262	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1525504650922	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1525504652370	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1525504652622	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1525504653755	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1525504653767	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1525504654086	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1525504655038	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1525504656415	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+[Parent 6240] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525504657286	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+1525504658412	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1525504658685	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967321"
+1525504658831	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1525504664232	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1525504665609	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 6240] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6240] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525506425279	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1525506425284	geckodriver	INFO	Listening on 127.0.0.1:65020
+1525506428369	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile.ff1Wlot490f9"
+1525506428749	addons.xpi	WARN	Exception running bootstrap method startup on clicktoplay-rollout@mozilla.org: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getStringPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js :: defineCohort :: line 49"  data: no] Stack trace: defineCohort()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:49 < startup()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:40 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4391 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2229 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1525506429013	Marionette	INFO	Enabled via --marionette
+[Child 9624] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9624] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525506430343	Marionette	INFO	Listening on port 65032
+1525506430352	Marionette	INFO	Listening on port 65032
+1525506430397	Marionette	WARN	TLS certificate errors will be ignored for this session
+1525506430434	Marionette	DEBUG	Register listener.js for window 4294967297
+1525506430486	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1525506432402	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1525506432402	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1525506433169	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1525506435993	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1525506436233	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1525506437458	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1525506437468	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1525506437939	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1525506439224	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1525506440794	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1525506441521	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+1525506442571	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1525506443227	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967321"
+1525506443411	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1525506448738	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1525506449289	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967324"
+1525506449338	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 10204] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10204] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\\rust_mozprofile.Hens6kxAn8Nh"
+1525506578934	addons.xpi	WARN	Exception running bootstrap method startup on clicktoplay-rollout@mozilla.org: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getStringPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js :: defineCohort :: line 49"  data: no] Stack trace: defineCohort()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:49 < startup()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:40 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4391 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2229 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1525506579387	Marionette	INFO	Enabled via --marionette
+[Parent 10460] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6256] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6256] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525506580489	Marionette	INFO	Listening on port 65329
+1525506580501	Marionette	INFO	Listening on port 65329
+1525506581475	Marionette	WARN	TLS certificate errors will be ignored for this session
+1525506581547	Marionette	DEBUG	Register listener.js for window 4294967297
+1525506581602	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1525506583481	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1525506583481	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1525506584202	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1525506587033	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1525506587279	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1525506588337	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1525506588350	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1525506588747	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1525506589557	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1525506591071	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1525506592167	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1525506593123	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1525506598470	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1525506599082	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1525506641655	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1525506641660	geckodriver	INFO	Listening on 127.0.0.1:65494
+1525506644724	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile.pRYivAivSyQg"
+1525506645559	addons.xpi	WARN	Exception running bootstrap method startup on clicktoplay-rollout@mozilla.org: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getStringPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js :: defineCohort :: line 49"  data: no] Stack trace: defineCohort()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:49 < startup()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:40 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4391 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2229 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1525506645826	Marionette	INFO	Enabled via --marionette
+[Parent 5380] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10108] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525506647007	Marionette	INFO	Listening on port 65506
+1525506647022	Marionette	INFO	Listening on port 65506
+1525506647860	Marionette	WARN	TLS certificate errors will be ignored for this session
+1525506647924	Marionette	DEBUG	Register listener.js for window 4294967297
+1525506647978	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1525506650126	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1525506650126	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1525506650808	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1525506652960	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1525506653205	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1525506654458	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1525506654462	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1525506654888	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1525506655648	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1525506657186	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1525506658068	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1525506659182	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1525506664542	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1525506665272	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1525506918847	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1525506918852	geckodriver	INFO	Listening on 127.0.0.1:49929
+1525506921872	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile.jdgDScQTmJua"
+1525506922219	addons.xpi	WARN	Exception running bootstrap method startup on clicktoplay-rollout@mozilla.org: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getStringPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js :: defineCohort :: line 49"  data: no] Stack trace: defineCohort()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:49 < startup()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:40 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4391 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2229 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1525506922486	Marionette	INFO	Enabled via --marionette
+[Parent 10744] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5260] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5260] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525506923719	Marionette	INFO	Listening on port 49941
+1525506923732	Marionette	INFO	Listening on port 49941
+1525506923894	Marionette	WARN	TLS certificate errors will be ignored for this session
+1525506923944	Marionette	DEBUG	Register listener.js for window 4294967297
+1525506923992	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1525506936504	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1525506936505	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+[Parent 10744] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525506940201	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1525506962479	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1525506962708	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1525506964004	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1525506964017	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1525506965062	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1525506966407	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1525506968384	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+[Parent 10744] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525506970392	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1525506970592	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+1525506970835	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1525506976178	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1525506976842	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1525507796349	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1525507796354	geckodriver	INFO	Listening on 127.0.0.1:51365
+1525507799426	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile.TEDATYsaDXbe"
+1525507800041	addons.xpi	WARN	Exception running bootstrap method startup on clicktoplay-rollout@mozilla.org: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getStringPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js :: defineCohort :: line 49"  data: no] Stack trace: defineCohort()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:49 < startup()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:40 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4391 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2229 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1525507800277	Marionette	INFO	Enabled via --marionette
+[Child 7244] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7244] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525507801546	Marionette	INFO	Listening on port 51378
+1525507801561	Marionette	INFO	Listening on port 51378
+1525507802551	Marionette	WARN	TLS certificate errors will be ignored for this session
+1525507802606	Marionette	DEBUG	Register listener.js for window 4294967297
+1525507802666	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1525507805052	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1525507805053	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1525507805757	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1525507807301	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1525507807550	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1525507808864	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1525507808877	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1525507809307	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1525507810542	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1525507812194	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1525507812887	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1525507813945	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1525507814001	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
+1525507815303	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967320"
+1525507815694	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+[Parent 1728] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525507821138	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1525507821688	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967322"
+1525507821728	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1525508306099	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1525508306105	geckodriver	INFO	Listening on 127.0.0.1:52210
+1525508309160	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile.oB3ro0NRzsPO"
+1525508310045	addons.xpi	WARN	Exception running bootstrap method startup on clicktoplay-rollout@mozilla.org: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getStringPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js :: defineCohort :: line 49"  data: no] Stack trace: defineCohort()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:49 < startup()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:40 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4391 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2229 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1525508310357	Marionette	INFO	Enabled via --marionette
+[Child 8072] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8072] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525508311673	Marionette	INFO	Listening on port 52222
+1525508311682	Marionette	INFO	Listening on port 52222
+1525508312291	Marionette	WARN	TLS certificate errors will be ignored for this session
+1525508312348	Marionette	DEBUG	Register listener.js for window 4294967297
+1525508312403	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1525508314348	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1525508314348	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1525508314981	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1525508317148	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1525508317403	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1525508318500	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1525508318505	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1525508318917	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1525508320052	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1525508321746	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1525508322638	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
+1525508323495	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1525508323874	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967321"
+1525508324745	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967324"
+1525508325383	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1525508330771	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1525508331378	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967326"
+1525508331408	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 10660] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10660] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\\rust_mozprofile.qbRbtj3amuQg"
+1525508369824	addons.xpi	WARN	Exception running bootstrap method startup on clicktoplay-rollout@mozilla.org: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getStringPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js :: defineCohort :: line 49"  data: no] Stack trace: defineCohort()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:49 < startup()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:40 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4391 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2229 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1525508370098	Marionette	INFO	Enabled via --marionette
+1525508371592	Marionette	INFO	Listening on port 52415
+1525508371593	Marionette	INFO	Listening on port 52415
+1525508372062	Marionette	WARN	TLS certificate errors will be ignored for this session
+1525508427320	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1525508427326	geckodriver	INFO	Listening on 127.0.0.1:52599
+1525508430402	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile.AUr4SlQNxMtF"
+1525508431274	addons.xpi	WARN	Exception running bootstrap method startup on clicktoplay-rollout@mozilla.org: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getStringPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js :: defineCohort :: line 49"  data: no] Stack trace: defineCohort()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:49 < startup()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:40 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4391 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2229 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1525508431646	Marionette	INFO	Enabled via --marionette
+[Child 9344] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9344] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525508432953	Marionette	INFO	Listening on port 52612
+1525508432967	Marionette	INFO	Listening on port 52612
+1525508433532	Marionette	WARN	TLS certificate errors will be ignored for this session
+1525508433585	Marionette	DEBUG	Register listener.js for window 4294967297
+1525508433641	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1525508435663	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1525508435664	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1525508436306	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1525508437830	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1525508438080	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1525508439431	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1525508439436	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1525508439883	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1525508441036	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1525508442824	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1525508443570	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+1525508444546	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1525508444915	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1525508450316	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1525508450892	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967324"
+1525508450956	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1525508570626	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1525508570631	geckodriver	INFO	Listening on 127.0.0.1:53100
+1525508573668	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile.0vniPGYQ2q2z"
+1525508574584	addons.xpi	WARN	Exception running bootstrap method startup on clicktoplay-rollout@mozilla.org: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getStringPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js :: defineCohort :: line 49"  data: no] Stack trace: defineCohort()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:49 < startup()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:40 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4391 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2229 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1525508574926	Marionette	INFO	Enabled via --marionette
+[Child 4760] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4760] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525508576387	Marionette	INFO	Listening on port 53113
+1525508576397	Marionette	INFO	Listening on port 53113
+1525508576794	Marionette	WARN	TLS certificate errors will be ignored for this session
+1525508576857	Marionette	DEBUG	Register listener.js for window 4294967297
+1525508576903	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1525508578819	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1525508578819	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1525508579454	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1525508581670	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1525508581928	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1525508583400	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1525508583403	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1525508583820	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1525508584558	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1525508586257	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+[Parent 8320] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525508586892	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+1525508587920	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1525508587948	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967321"
+1525508588252	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1525508593674	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1525508594238	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967324"
+1525508594370	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 6728] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6728] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 11632] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525508677116	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1525508677121	geckodriver	INFO	Listening on 127.0.0.1:53446
+1525508680185	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile.y1SK3wQcSHKr"
+1525508681041	addons.xpi	WARN	Exception running bootstrap method startup on clicktoplay-rollout@mozilla.org: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getStringPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js :: defineCohort :: line 49"  data: no] Stack trace: defineCohort()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:49 < startup()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:40 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4391 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2229 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1525508681326	Marionette	INFO	Enabled via --marionette
+1525508682536	Marionette	INFO	Listening on port 53460
+1525508682549	Marionette	INFO	Listening on port 53460
+1525508683323	Marionette	WARN	TLS certificate errors will be ignored for this session
+1525508683384	Marionette	DEBUG	Register listener.js for window 4294967297
+1525508683437	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1525508685274	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1525508685275	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1525508685926	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1525508688126	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1525508688398	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1525508689783	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1525508689795	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1525508690246	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1525508691024	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1525508692623	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1525508693209	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+1525508694394	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1525508694428	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967321"
+1525508694508	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1525508699871	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1525508700441	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 776] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12044] WARNING: pipe error: 109: 1525508767695	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile.7RbCrWymh3q8"
+1525508768037	addons.xpi	WARN	Exception running bootstrap method startup on clicktoplay-rollout@mozilla.org: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getStringPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js :: defineCohort :: line 49"  data: no] Stack trace: defineCohort()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:49 < startup()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:40 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4391 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2229 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1525508768481	Marionette	INFO	Enabled via --marionette
+[Child 5260] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5260] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525508769838	Marionette	INFO	Listening on port 53698
+1525508769844	Marionette	INFO	Listening on port 53698
+1525508770837	Marionette	WARN	TLS certificate errors will be ignored for this session
+1525508770895	Marionette	DEBUG	Register listener.js for window 4294967297
+1525508770951	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1525508772898	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1525508772898	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1525508773602	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1525508775788	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1525508776074	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.facebook.com/"
+1525508777319	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/"
+1525508777331	Marionette	DEBUG	Received DOM event "unload" for "https://www.facebook.com/"
+1525508777764	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1525508778459	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+1525508780015	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+[Parent 4904] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525508780980	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+1525508782899	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+1525508788325	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1525508788948	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967322"
+1525508789001	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 8204] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8204] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525697255601	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1525697255672	geckodriver	INFO	Listening on 127.0.0.1:52964
+1525697258606	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile.Qy6Et2eypDFn"
+1525697266256	geckodriver	INFO	geckodriver 0.20.1 (685f18325cea0a282c736e65972f95aa6db7ca48 2018-04-03)
+1525697266261	geckodriver	INFO	Listening on 127.0.0.1:52995
+1525697269318	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile.GTQjj6jyCOWe"
+1525697270214	addons.xpi	WARN	Exception running bootstrap method startup on clicktoplay-rollout@mozilla.org: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIPrefBranch.getStringPref]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js :: defineCohort :: line 49"  data: no] Stack trace: defineCohort()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:49 < startup()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi!/bootstrap.js:40 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4391 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2229 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1525697271047	Marionette	INFO	Enabled via --marionette
+[Child 11868] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11868] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525697275409	Marionette	INFO	Listening on port 53007
+1525697275418	Marionette	INFO	Listening on port 53007
+1525697275563	Marionette	WARN	TLS certificate errors will be ignored for this session
+1525697275641	Marionette	DEBUG	Register listener.js for window 4294967297
+1525697275692	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1525697276208	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1525697276209	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://www.makemytrip.com/, line 1267: TypeError: holidayExpMap is undefined
+1525697278088	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.makemytrip.com/"
+1525697283421	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.makemytrip.com/"
+1525697285656	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1525697290197	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 11416] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 8284] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2696] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
