@@ -1,1 +1,3 @@
-# Selenium-Appium-Automation
+# Utility-Automation
+ => Web Automation (Selenium)
+ => Mobile Automation (Appium)
